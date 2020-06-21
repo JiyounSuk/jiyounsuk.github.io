@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unsupervised machine learning | Jiyoun Suk</title>
+    <link>/tag/unsupervised-machine-learning/</link>
+      <atom:link href="/tag/unsupervised-machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>unsupervised machine learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jiyoun Suk 2020</copyright><lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>unsupervised machine learning</title>
+      <link>/tag/unsupervised-machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Computational Communication Research</title>
+      <link>/project/computational-social-science/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/project/computational-social-science/</guid>
+      <description>&lt;p&gt;To answer my overarching research questions, I employ computational approaches to identify networked information flows and communication dynamics.&lt;/p&gt;
+&lt;p&gt;To be specific, I use:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Natural language processing: text processing, POS tagging/parsing, dependency analysis, LDA/structural topic modeling, sentiment analysis&lt;/li&gt;
+&lt;li&gt;Machine learning: PCA, cluster analysis, SVM, logistic regression&lt;/li&gt;
+&lt;li&gt;Social network analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Below are selected publications and manuscripts in progress that highlight computational techniques.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Selected publications and manuscripts in progress:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Suk, J.&lt;/strong&gt;, Abhishek, A., Zhang, Y., Ahn, S. Y., Correa, T., Garlough, C., &amp;amp; Shah, D. V. (2019).#MeToo, Networked Acknowledgment, and Connective Action: How &amp;ldquo;Empowerment Through Empathy&amp;rdquo; Launched a Social Movement. &lt;em&gt;Social Science Computer Review&lt;/em&gt;. doi: 10.1177/0894439319864882&lt;/p&gt;
+&lt;p&gt;Zhang, Y., Shah, D., Foley, J., Abhishek, A., Lukito, J., &lt;strong&gt;Suk, J.&lt;/strong&gt;, Kim, S., Sun, Z., Pevehouse, J. &amp;amp; Garlough, C. (2019). Whose Lives Matter? Mass Shootings and Social Media Discourses of Sympathy and Policy, 2012-2014. &lt;em&gt;Journal of Computer-Mediated Communication&lt;/em&gt;, 24(4), 182-202. doi: 10.1093/jcmc/zmz009&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Suk, J.&lt;/strong&gt;, Lukito, J., Su, M., Kim, S. J., Tong, C., Sun, Z., &amp;amp; Sarma, P. Do I sound American? Predicting Disinformation Sharing of Russian IRA tweets from a Linguistic Perspective.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Suk, J.&lt;/strong&gt;, Zhang, Y., Lukito, J., Su, M., &amp;amp; Foley, J. Tracing Twitter Buzz: Clustering Hashtags and Handles About Mass Shootings and Gun Control.&lt;/p&gt;
+&lt;p&gt;Su, M., &lt;strong&gt;Suk, J.&lt;/strong&gt;, Ghosh, S., Kamath, K., Borah, P., Correa, T., Garlough, C., &amp;amp; Shah, D. How the Left, Center, and Right Covered the #MeToo Movement: Structural Topic Modeling,
+Thematic Structure and Language Patterns.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
