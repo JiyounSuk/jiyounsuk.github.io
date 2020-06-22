@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Jiyoun Suk</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jiyounsuk.github.io/publication/</link>
+      <atom:link href="https://jiyounsuk.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jiyoun Suk 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jiyounsuk.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://jiyounsuk.github.io/publication/</link>
     </image>
     
     <item>
       <title>Do Improving Conditions Harden Partisan Preferences? Lived Experiences, Imagined Communities, and Polarized Evaluations</title>
-      <link>/publication/suk-improving-2020/</link>
+      <link>https://jiyounsuk.github.io/publication/suk-improving-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/suk-improving-2020/</guid>
+      <guid>https://jiyounsuk.github.io/publication/suk-improving-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Wolves in Sheep’s Clothing: How Russia’s Internet Research Agency Tweets Appeared in U.S. News as Vox Populi</title>
-      <link>/publication/lukito-wolves-2019/</link>
+      <link>https://jiyounsuk.github.io/publication/lukito-wolves-2019/</link>
       <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/lukito-wolves-2019/</guid>
+      <guid>https://jiyounsuk.github.io/publication/lukito-wolves-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>#MeToo, Networked Acknowledgment, and Connective Action: How “Empowerment Through Empathy” Launched a Social Movement</title>
-      <link>/publication/suk-metoo-2019/</link>
+      <link>https://jiyounsuk.github.io/publication/suk-metoo-2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/suk-metoo-2019/</guid>
+      <guid>https://jiyounsuk.github.io/publication/suk-metoo-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Whose Lives Matter? Mass Shootings and Social Media Discourses of Sympathy and Policy, 2012–2014</title>
-      <link>/publication/zhang-whose-2019/</link>
+      <link>https://jiyounsuk.github.io/publication/zhang-whose-2019/</link>
       <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/zhang-whose-2019/</guid>
+      <guid>https://jiyounsuk.github.io/publication/zhang-whose-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Framing of same-sex marriage over 17 years in two newspapers is linked to ideology especially in election years</title>
-      <link>/publication/lasorsa-framing-2018/</link>
+      <link>https://jiyounsuk.github.io/publication/lasorsa-framing-2018/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/lasorsa-framing-2018/</guid>
+      <guid>https://jiyounsuk.github.io/publication/lasorsa-framing-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Twitter Exploit: How Russian Propaganda Infiltrated U.S. News</title>
-      <link>/publication/lukito-twitter-2018/</link>
+      <link>https://jiyounsuk.github.io/publication/lukito-twitter-2018/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/lukito-twitter-2018/</guid>
+      <guid>https://jiyounsuk.github.io/publication/lukito-twitter-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tweeting Mass Shootings: The Dynamics of Issue Attention on Social Media</title>
-      <link>/publication/zhang-tweeting-2017/</link>
+      <link>https://jiyounsuk.github.io/publication/zhang-tweeting-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/zhang-tweeting-2017/</guid>
+      <guid>https://jiyounsuk.github.io/publication/zhang-tweeting-2017/</guid>
       <description></description>
     </item>
     

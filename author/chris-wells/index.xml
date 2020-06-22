@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Wells | Jiyoun Suk</title>
-    <link>/author/chris-wells/</link>
-      <atom:link href="/author/chris-wells/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jiyounsuk.github.io/author/chris-wells/</link>
+      <atom:link href="https://jiyounsuk.github.io/author/chris-wells/index.xml" rel="self" type="application/rss+xml" />
     <description>Chris Wells</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jiyoun Suk 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jiyounsuk.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Chris Wells</title>
-      <link>/author/chris-wells/</link>
+      <link>https://jiyounsuk.github.io/author/chris-wells/</link>
     </image>
     
     <item>
       <title>Do Improving Conditions Harden Partisan Preferences? Lived Experiences, Imagined Communities, and Polarized Evaluations</title>
-      <link>/publication/suk-improving-2020/</link>
+      <link>https://jiyounsuk.github.io/publication/suk-improving-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/suk-improving-2020/</guid>
+      <guid>https://jiyounsuk.github.io/publication/suk-improving-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Wolves in Sheep’s Clothing: How Russia’s Internet Research Agency Tweets Appeared in U.S. News as Vox Populi</title>
-      <link>/publication/lukito-wolves-2019/</link>
+      <link>https://jiyounsuk.github.io/publication/lukito-wolves-2019/</link>
       <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/lukito-wolves-2019/</guid>
+      <guid>https://jiyounsuk.github.io/publication/lukito-wolves-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Twitter Exploit: How Russian Propaganda Infiltrated U.S. News</title>
-      <link>/publication/lukito-twitter-2018/</link>
+      <link>https://jiyounsuk.github.io/publication/lukito-twitter-2018/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/lukito-twitter-2018/</guid>
+      <guid>https://jiyounsuk.github.io/publication/lukito-twitter-2018/</guid>
       <description></description>
     </item>
     

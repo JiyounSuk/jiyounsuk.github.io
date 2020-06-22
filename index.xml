@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiyoun Suk</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jiyounsuk.github.io/</link>
+      <atom:link href="https://jiyounsuk.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiyoun Suk</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jiyoun Suk 2020</copyright><lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jiyounsuk.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jiyoun Suk</title>
-      <link>/</link>
+      <link>https://jiyounsuk.github.io/</link>
     </image>
     
     <item>
       <title>Networked communication flows</title>
-      <link>/project/networked-comm-flows/</link>
+      <link>https://jiyounsuk.github.io/project/networked-comm-flows/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
-      <guid>/project/networked-comm-flows/</guid>
+      <guid>https://jiyounsuk.github.io/project/networked-comm-flows/</guid>
       <description>&lt;p&gt;Focusing on the shifting communication ecologies and changing media environment, this line of research investigates the dynamics of online discourses, their relationships with external events and news media coverage, and democratic consequences such as political actions and social trust. Some of my research further look at dissemination of Russian disinformation messages in online sphere and their infiltration into the US media system.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Selected publications and manuscripts in progress:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Suk, J.&lt;/strong&gt;, Abhishek, A., Zhang, Y., Ahn, S. Y., Correa, T., Garlough, C., &amp;amp; Shah, D. V. (2019).#MeToo, Networked Acknowledgment, and Connective Action: How &amp;ldquo;Empowerment Through Empathy&amp;rdquo; Launched a Social Movement. &lt;em&gt;Social Science Computer Review&lt;/em&gt;. doi: 10.1177/0894439319864882&lt;/p&gt;
@@ -31,9 +31,9 @@
     
     <item>
       <title>Community, context, and communication</title>
-      <link>/project/community-context-communication/</link>
+      <link>https://jiyounsuk.github.io/project/community-context-communication/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/project/community-context-communication/</guid>
+      <guid>https://jiyounsuk.github.io/project/community-context-communication/</guid>
       <description>&lt;p&gt;I examine how the cultural, political, and social contexts surrounding individuals would interplay with networked communication flows to shape political judgments. I emphasize the importance of understanding communication patterns and public opinion formation across differing levels of social, cultural, and political structures.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Selected publications and manuscripts in progress:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Suk, J.&lt;/strong&gt;, Shah, D., Wells, C, Wagner, M., Friedland, L., Cramer, K., Hughes, C., &amp;amp; Franklin, C. (2020). Do Improving Conditions Harden Partisan Preferences? Communication, Context, and Political Evaluations During Periods of Contention. &lt;em&gt;International Journal of Public Opinion Research&lt;/em&gt;. doi: 10.1093/ijpor/edz051&lt;/p&gt;
@@ -46,9 +46,9 @@
     
     <item>
       <title>Computational Communication Research</title>
-      <link>/project/computational-social-science/</link>
+      <link>https://jiyounsuk.github.io/project/computational-social-science/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/project/computational-social-science/</guid>
+      <guid>https://jiyounsuk.github.io/project/computational-social-science/</guid>
       <description>&lt;p&gt;To answer my overarching research questions, I employ computational approaches to identify networked information flows and communication dynamics.&lt;/p&gt;
 &lt;p&gt;To be specific, I use:&lt;/p&gt;
 &lt;ul&gt;
@@ -69,83 +69,65 @@ Thematic Structure and Language Patterns.&lt;/p&gt;
     
     <item>
       <title>Do Improving Conditions Harden Partisan Preferences? Lived Experiences, Imagined Communities, and Polarized Evaluations</title>
-      <link>/publication/suk-improving-2020/</link>
+      <link>https://jiyounsuk.github.io/publication/suk-improving-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/suk-improving-2020/</guid>
+      <guid>https://jiyounsuk.github.io/publication/suk-improving-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Wolves in Sheep’s Clothing: How Russia’s Internet Research Agency Tweets Appeared in U.S. News as Vox Populi</title>
-      <link>/publication/lukito-wolves-2019/</link>
+      <link>https://jiyounsuk.github.io/publication/lukito-wolves-2019/</link>
       <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/lukito-wolves-2019/</guid>
+      <guid>https://jiyounsuk.github.io/publication/lukito-wolves-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>#MeToo, Networked Acknowledgment, and Connective Action: How “Empowerment Through Empathy” Launched a Social Movement</title>
-      <link>/publication/suk-metoo-2019/</link>
+      <link>https://jiyounsuk.github.io/publication/suk-metoo-2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/suk-metoo-2019/</guid>
+      <guid>https://jiyounsuk.github.io/publication/suk-metoo-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Whose Lives Matter? Mass Shootings and Social Media Discourses of Sympathy and Policy, 2012–2014</title>
-      <link>/publication/zhang-whose-2019/</link>
+      <link>https://jiyounsuk.github.io/publication/zhang-whose-2019/</link>
       <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/zhang-whose-2019/</guid>
+      <guid>https://jiyounsuk.github.io/publication/zhang-whose-2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Framing of same-sex marriage over 17 years in two newspapers is linked to ideology especially in election years</title>
-      <link>/publication/lasorsa-framing-2018/</link>
+      <link>https://jiyounsuk.github.io/publication/lasorsa-framing-2018/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/lasorsa-framing-2018/</guid>
+      <guid>https://jiyounsuk.github.io/publication/lasorsa-framing-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Twitter Exploit: How Russian Propaganda Infiltrated U.S. News</title>
-      <link>/publication/lukito-twitter-2018/</link>
+      <link>https://jiyounsuk.github.io/publication/lukito-twitter-2018/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/lukito-twitter-2018/</guid>
+      <guid>https://jiyounsuk.github.io/publication/lukito-twitter-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tweeting Mass Shootings: The Dynamics of Issue Attention on Social Media</title>
-      <link>/publication/zhang-tweeting-2017/</link>
+      <link>https://jiyounsuk.github.io/publication/zhang-tweeting-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/zhang-tweeting-2017/</guid>
+      <guid>https://jiyounsuk.github.io/publication/zhang-tweeting-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/teaching/</link>
+      <link>https://jiyounsuk.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/teaching/</guid>
+      <guid>https://jiyounsuk.github.io/teaching/</guid>
       <description>&lt;h2&gt;School of Journalism and Mass Communication, UW-Madison&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Instructor&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>social network analysis | Jiyoun Suk</title>
-    <link>/tag/social-network-analysis/</link>
-      <atom:link href="/tag/social-network-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jiyounsuk.github.io/tag/social-network-analysis/</link>
+      <atom:link href="https://jiyounsuk.github.io/tag/social-network-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>social network analysis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jiyoun Suk 2020</copyright><lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jiyounsuk.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>social network analysis</title>
-      <link>/tag/social-network-analysis/</link>
+      <link>https://jiyounsuk.github.io/tag/social-network-analysis/</link>
     </image>
     
     <item>
       <title>Computational Communication Research</title>
-      <link>/project/computational-social-science/</link>
+      <link>https://jiyounsuk.github.io/project/computational-social-science/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/project/computational-social-science/</guid>
+      <guid>https://jiyounsuk.github.io/project/computational-social-science/</guid>
       <description>&lt;p&gt;To answer my overarching research questions, I employ computational approaches to identify networked information flows and communication dynamics.&lt;/p&gt;
 &lt;p&gt;To be specific, I use:&lt;/p&gt;
 &lt;ul&gt;
